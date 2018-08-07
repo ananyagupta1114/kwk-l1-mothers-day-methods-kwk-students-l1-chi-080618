@@ -2,4 +2,4 @@
 def mothers_day(name= "Beyonce")
   puts "Happy Mother's Day, #{name}!"
 end
-mothers_day("Grandma")
+mothers_day()
